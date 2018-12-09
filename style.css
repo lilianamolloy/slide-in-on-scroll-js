@@ -1,6 +1,7 @@
 html {
     box-sizing: border-box;
-    background: linear-gradient(to right, rgb(251, 137, 197), rgb(238, 215, 121));
+    /* background: linear-gradient(to right, rgb(251, 137, 197), rgb(238, 215, 121)); */
+    background: linear-gradient(to right, rgb(246, 177, 0), rgb(25, 173, 239));
     font-family: 'helvetica neue';
     font-size: 20px;
     font-weight: 200;
@@ -16,13 +17,13 @@ html {
 
   h1 {
     margin-top: 0;
-    color: white;
+    color: rgb(152, 176, 144);
   }
 
   .site-wrap {
     max-width: 700px;
     margin: 100px auto;
-    background:rgba(255,255,255, 0.5);
+    background:rgba(255,255,255, 0.4);
     padding: 40px;
     text-align: justify;
   }
